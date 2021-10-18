@@ -180,8 +180,9 @@ $light_gray:#eee;
 .login-container {
   min-height: 100%;
   width: 100%;
-  background-color: $bg;
+  //background-color: red;
   overflow: hidden;
+  background:url('../../assets/images/liqin.jpg') no-repeat center fixed;
 
   .login-form {
     position: relative;
